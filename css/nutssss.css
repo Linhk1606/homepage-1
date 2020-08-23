@@ -191,7 +191,6 @@ body {
 .cmd .title {
     width: 100%;
     height: 25px;
-    background-image: linear-gradient(to top, rgb(184, 184, 184), white);
     font-size: 14px;
     line-height: 25px;
 }
@@ -212,7 +211,7 @@ body {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    margin: 8px 0 0 10px;
+    margin: 8px 0 0 6px;
     float: left;
 }
 
